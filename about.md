@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Network HCI Algorithms Math
 
-### More Information
+### Inspirations and Keywords (Random)
 
-A place to include any other types of information that you'd like to include about yourself.
+Bitcoin and Blockchain  
+Lion King  
+Linear Algebra  
+Emotions  
+Data Driven Studies  
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hyunjongl@kaist.ac.kr](mailto:hyunjongl@kaist.ac.kr)
+
